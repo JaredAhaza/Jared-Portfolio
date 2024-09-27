@@ -521,7 +521,7 @@ input[type='checkbox'] {
 .header {
 	padding-top: 7rem;
 	padding-bottom: 5.5rem;
-	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/had.jpg') center center no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/head.jpg') center center no-repeat;
 	background-size: cover;
 	text-align: center;
 }
@@ -529,6 +529,7 @@ input[type='checkbox'] {
 .header .h1-large {
 	margin-bottom: 1.75rem;
 	color: #ffffff;
+	align-items: left;
 }
 
 .header .btn-solid-lg:hover {
